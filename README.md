@@ -1,5 +1,3 @@
----
-
 # Project Template
 
 This is the template for the Project I course at the IA Master, Universidad Icesi, Cali Colombia
@@ -9,9 +7,6 @@ This template is based on the template proposed by the [Data Science Working Gro
 _Instructions: Edit this template filling in the titles, information, and links! Feel free to stray a bit to suit your project but try to provide the main information for reviews and feedback purposes._
 
 ## Remove this table after updating your project's information
-
-
----
 
 # Project Penicillin
 

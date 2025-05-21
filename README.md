@@ -1,22 +1,12 @@
-# Project Template
-
-This is the template for the Project I course at the IA Master, Universidad Icesi, Cali Colombia
-
-This template is based on the template proposed by the [Data Science Working Group] (https://github.com/sfbrigade/data-science-wg) Code for the [San Francisco’s Code initiative](https://github.com/sfbrigade/data-science-wg)
-
-_Instructions: Edit this template filling in the titles, information, and links! Feel free to stray a bit to suit your project but try to provide the main information for reviews and feedback purposes._
-
-## Remove this table after updating your project's information
-
 # Project Penicillin
 
 This project is a part of the **Proyecto 1 de Innovación Tecnológica** course in the Applied Artificial Intelligence Master, Universidad Icesi, Cali Colombia.
 
-#### -- Project Status: [Active, On-Hold, Completed]
+#### -- Project Status: Active
 
 ## Contributing Members
 
-**Team Leader: [Full Name](https://github.com/[github handle])(@slackHandle)**
+**Team Leader: Sandra Jimena Orozco Lagos(https://github.com/Sandrajol)**
 **Instructor: [Full Name](https://github.com/[github handle])(@slackHandle)**
 
 #### Other Members:
@@ -32,16 +22,7 @@ This project is a part of the **Proyecto 1 de Innovación Tecnológica** course 
 
 ## Project Intro/Objective
 
-The purpose of this project is **\_\_\_\_**. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
-
-### Partner
-
-This section should be added when there's a partner institution
-
-- [Name of Partner organization/Government department etc..]
-- Website for partner
-- Partner contact: [Name of Contact], [slack handle of contact if any]
-- If you do not have a partner leave this section out
+The purpose of this project is **To design a soft sensor for predicting penicillin concentration in a simulated bioreactor using the IndPenSim dataset**.
 
 ### Methods Used
 
@@ -64,7 +45,7 @@ This section should be added when there's a partner institution
 
 ## Project Description
 
-(Provide a more detailed overview of the project. Talk a bit about your data sources and what questions and hypotheses you are exploring. What specific data analysis/visualization and modeling work are you using to solve the problem? What blockers and challenges are you facing? Feel free to number or bullet point things here)
+This project focuses on developing a soft sensor powered by artificial intelligence to estimate penicillin concentration in a simulated bioreactor. Using data from the IndPenSim environment, various machine learning algorithms are trained and compared based on online-measured variables. The aim is to enhance real-time monitoring and control in biotechnological production processes.
 
 ## Getting Started
 
